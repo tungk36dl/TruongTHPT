@@ -24,7 +24,7 @@ const RIGHT_WIDGETS = [
     title: 'Hoạt động trải nghiệm, sáng tạo',
     urls: [
       'https://i.postimg.cc/YqG31Bdx/6006de51-33e1-4c94-97af-e0390bfda15e.jpg',
-      'http://thpthoangquocviet.edu.vn/upload/24288/20190403/IMG_918956.JPG',
+      'https://i.postimg.cc/63DpGZHY/642953208-1226747099546727-3336955852018151727-n.jpg',
       'https://i.postimg.cc/0jmC1pMp/a8757d9b-5f94-4bbc-9edf-3c60203a6ea4.jpg',
     ],
   },
@@ -442,7 +442,7 @@ function App() {
           </div>
           <div className="school-header__banner">
             <img
-              src="http://thpthoangquocviet.edu.vn/upload/24288/20190328/bannerN3.jpg"
+              src="https://i.postimg.cc/85k5SD7K/banner-N3.jpg"
               alt="Banner trường THPT Hoàng Quốc Việt"
             />
           </div>
